@@ -1,4 +1,4 @@
-package hu.bbabics.springboot_login;
+package hu.bbabics.springboot_login.configuration;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
